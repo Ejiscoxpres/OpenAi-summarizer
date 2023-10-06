@@ -12,6 +12,11 @@ const Hero = () => {
 
             </button>
             </nav>
+            <h1 className='header_text'>
+              Summarize Articles with <br />
+              <span>OpenAi GPT-4</span>
+
+            </h1>
 
     </header>
   )
