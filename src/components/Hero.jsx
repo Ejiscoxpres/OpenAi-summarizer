@@ -14,7 +14,7 @@ const Hero = () => {
             </nav>
             <h1 className='header_text'>
               Summarize Articles with <br />
-              <span>OpenAi GPT-4</span>
+              <span className='blue_gradient'> OpenAi GPT-4</span>
 
             </h1>
 
